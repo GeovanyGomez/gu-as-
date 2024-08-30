@@ -1,0 +1,13 @@
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\bin\Debug\CapaConexion.exe.config
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\bin\Debug\CapaConexion.exe
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaConexion.Form1.resources
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaConexion.Properties.Resources.resources
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.GenerateResource.cache
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaConexion.exe
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaConexion.pdb
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\bin\Debug\DatosLayer.dll
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\bin\Debug\DatosLayer.pdb
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\CapaConexion\obj\Debug\CapaCone.C1BD2A79.Up2Date

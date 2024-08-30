@@ -1,0 +1,6 @@
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\DatosLayer\bin\Debug\DatosLayer.dll
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\DatosLayer\bin\Debug\DatosLayer.pdb
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\DatosLayer\obj\Debug\DatosLayer.csproj.AssemblyReference.cache
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\DatosLayer\obj\Debug\DatosLayer.csproj.CoreCompileInputs.cache
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\DatosLayer\obj\Debug\DatosLayer.dll
+C:\Users\jerem\Desktop\Universidad\Ciclo IV\Progra II\Proyecto\CapaConexion\DatosLayer\obj\Debug\DatosLayer.pdb
